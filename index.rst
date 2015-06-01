@@ -18,6 +18,21 @@
             <div class="col-md-12">
                 <h2>
                     <img src="{% asset_path cloud-servers.png %}" alt="" class="product-image"/>
+                    Core Infrastructure User Guide
+                </h2>
+                <p>For a complete picture of infrastructure use cases, refer to the Core Infrastructure User Guide. You can read about Cloud Servers, Cloud Networks, Cloud Images, Cloud Block Storage, and additional services to load balance and monitor your infrastructure.</p>
+                <ul class="piped-list">
+                    <li><a href="/docs/core-infra-user-guide/cloud_intro/cloud_tour/index.html">Touring the Rackspace cloud</a></li>
+                    <li><a href="http://api.rackspace.com/api-ref-auto-scale.html">Interacting with the cloud</a></li>
+                    </ul>
+            </div>
+        </div>
+        
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2>
+                    <img src="{% asset_path cloud-servers.png %}" alt="" class="product-image"/>
                     Auto Scale
                 </h2>
                 <p>Rackspace Auto Scale is a service that lets you configure automated scaling of resources in response to an
